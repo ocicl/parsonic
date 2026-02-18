@@ -1,0 +1,9 @@
+* parsonic
+
+A parser combinator framework for Common Lisp with an optimizing compiler that compiles parsers into efficient Lisp functions.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/bohonghuang/parsonic.git |
+| commit  | 0000000                                         |
+| systems | parsonic parsonic.stream                        |
+|---------+-------------------------------------------------|
