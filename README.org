@@ -4,6 +4,6 @@ A parser combinator framework for Common Lisp with an optimizing compiler that c
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/bohonghuang/parsonic.git |
-| commit  | 1462edc                                         |
+| commit  | 3f03e9f                                         |
 | systems | parsonic parsonic.stream                        |
 |---------+-------------------------------------------------|
